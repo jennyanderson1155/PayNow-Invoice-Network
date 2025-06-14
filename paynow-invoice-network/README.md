@@ -298,4 +298,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Disclaimer
 
-This smart contract is provided as-is for educational and development purposes. Users should conduct thorough testing and security audits before deploying to mainnet. The developers assume no responsibility for any losses incurred through the use of this contract.
+This smart contract is provided as-is for educational and development purposes. Users should conduct thorough testing and security audits before deploying to mainnet. The developers assume no responsibility for any losses incurred through the use of this contract. -------
